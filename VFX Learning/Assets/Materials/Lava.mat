@@ -88,6 +88,7 @@ Material:
     m_Colors:
     - Color_BB25E9EB: {r: 8, g: 1.3490196, b: 0, a: 0}
     - Color_EEC6A3F0: {r: 0.19633952, g: 0, b: 2.0833843, a: 0}
+    - Vector2_860F7724: {r: -0.25, g: -0.25, b: 0, a: 0}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
